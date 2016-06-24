@@ -6,4 +6,4 @@ Mình là *Tâm*, và đây là Facebook của mình: [Thanh Tâm Potter] (https
 
 'đây là bức ảnh diễn tả tâm trạng Tâm mấy hôm nay :v'
 
-<img src="imgur.com/Lsa0H0a">
+<img src="https://imgur.com/Lsa0H0a">
