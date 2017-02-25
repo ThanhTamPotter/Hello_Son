@@ -15,4 +15,4 @@ Mình là *Tâm*, và đây là Facebook của mình: [Thanh Tâm Potter] (https
 
 test xem mẻ nào đc
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg">
+<img src="http://imgur.com/abNJwzc.png">
